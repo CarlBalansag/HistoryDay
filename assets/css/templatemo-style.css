@@ -51,6 +51,7 @@ img {
     margin-right: auto;
     position: relative;
     width: 1000px;
+    overflow:hidden;
     height: auto;
 }
 
