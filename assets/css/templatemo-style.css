@@ -52,6 +52,7 @@ img {
     overflow:hidden;
     height: auto;
     z-index: 0;
+    padding: 0px;
 
 	
 }
